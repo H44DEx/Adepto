@@ -1,6 +1,12 @@
 h1 {
     text-align: center;
     color: black;
-    font-size: 34px;
+    font-size: large;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
 }
