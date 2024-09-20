@@ -1,6 +1,6 @@
 body {
     background-color: rgb(49, 49, 49);
-    display: flex;
+    display: inline;
     text-align: center;
     justify-content: center;
 }
