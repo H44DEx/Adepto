@@ -1,4 +1,11 @@
 body {
+    display: flex;
     text-align: center;
-    background-color: rgb(48, 48, 48);
+    justify-content: center;
+}
+
+.title {
+    color: aliceblue;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
