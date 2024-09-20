@@ -4,8 +4,8 @@ body {
     justify-content: center;
 }
 
-#title {
-    
+.title {
+    color: aliceblue;
     font-size: large;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
