@@ -51,6 +51,8 @@ h1 {
 .apoie:hover{
 	background-color: white;
 	color: black;
+	height:200px;
+	width: 400px;
 }
 
 .cabecalho {
