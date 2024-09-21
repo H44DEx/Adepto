@@ -45,6 +45,7 @@ h1 {
 	color: aliceblue;
 	cursor: crosshair;
 	font-family: 'Courier New', Courier, monospace;
+	border-radius: 20px;
 }
 
 .apoie:hover{
