@@ -39,8 +39,8 @@ h1 {
 
 .apoie	{
 	text-align: center;
-	height:50px;
-	width: 100px;
+	height:100px;
+	width: 200px;
 	background-color: rgb(65, 65, 65);
 	color: aliceblue;
 	cursor: crosshair;
