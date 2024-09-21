@@ -1,0 +1,71 @@
+body {
+	background-color: #000 ;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	color: white;
+	display: grid;
+	text-align: center;
+
+}
+header {
+	padding: 0%;
+	margin: 0;
+
+}
+
+hr {
+ 		width: 99%;
+
+}
+
+p {
+    text-align: center;
+}
+
+p a {
+    text-decoration: none;
+    color: white; 
+    margin: 0 10px;
+}
+
+h1 {
+	font-family: "Courier New", monospace;
+	font-weight: normal;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+
+.apoie	{
+	text-align: center;
+	height:50px;
+	width: 100px;
+	background-color: rgb(65, 65, 65);
+	color: aliceblue;
+	cursor: crosshair;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.apoie:hover{
+	background-color: white;
+	color: black;
+}
+
+.cabecalho {
+
+	width:100%; 
+	height: auto;
+
+}
+
+.title {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 50px;
+	margin: 0;
+	padding: 0;
+}
+
+.ADEPTO {
+	margin: 50px;
+}
