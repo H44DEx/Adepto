@@ -76,5 +76,5 @@ h1 {
 .Concepts {
 	text-align: center;
 	font-size: 10px;
-
+	display: inline;
 }
